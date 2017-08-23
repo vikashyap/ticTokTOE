@@ -12,7 +12,7 @@
 #tic-tac-toe h1 {text-align:center; font-size:28px}
 #tic-tac-toe li::-moz-selection {background:none;color:#000;}
 #tic-tac-toe li::-webkit-selection {background:none;color:#000;}
-#tic-tac-toe {width:220px; margin:0 auto}
+#tic-tac-toe {width:250px; margin:0 auto}
 .input-append .win_times {background:#fff; width:101px}
 .input-append .win_text {width:52px}
 /*******tic-tac-toe END******/
